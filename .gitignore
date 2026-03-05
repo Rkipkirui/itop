@@ -1,0 +1,12 @@
+# iTop cache and logs
+datamodels/tmp/
+conf/
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE files (optional)
+.vscode/
+.idea/
